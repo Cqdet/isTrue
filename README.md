@@ -3,6 +3,6 @@ A blazingly fast, efficient, and modern library to determine whether your boolea
 
 # API
 ```ts
-import isTrue from 'https://deno.land/x/istrue/mod.ts;
+import isTrue from 'https://deno.land/x/istrue/mod.ts';
 console.log(isTrue(true));
 ```
